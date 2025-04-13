@@ -1,1 +1,1 @@
-# stepik
+First project
